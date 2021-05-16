@@ -1,0 +1,38 @@
+ body {
+     font-family: 'Josefin Sans', sans-serif;
+     background-image: url("chinese_mountains.png");
+     background-repeat: no-repeat;
+     width: 100%;
+     align-content: center;
+
+}
+
+#container {
+
+    padding: 60px;
+    width: 600px;
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    transform: translate(-50%, -50%);
+
+ 
+}
+
+h1 {
+    font-size: 45px;
+    text-transform: uppercase;
+}
+
+button {
+    padding: 10px;
+    border-radius:5px;
+    background-color: red;
+    text-transform: uppercase;
+    color: white;
+}
+
+#word {
+    padding: 5px;
+    border-radius: 8px;
+}
